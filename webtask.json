@@ -1,6 +1,6 @@
 {
-  "title": "Auth0 Account Link",
-  "name": "auth0-account-link",
+  "title": "Birda Account Link",
+  "name": "birda-auth0-account-link",
   "version": "2.6.5",
   "preVersion": "2.6.3",
   "author": "auth0",
